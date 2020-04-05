@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer.csproj",
+        "projectName": "AbcPlayer",
+        "projectPath": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer.csproj",
+        "packagesPath": "C:\\Users\\codyc\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Visual Studio\\AbcPlayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\codyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Projects\\Visual Studio\\_NuGet\\_Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[1.6.5, )"
+            },
+            "MahApps.Metro.IconPacks.Entypo": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

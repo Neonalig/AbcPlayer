@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJvcH/aprSbVAHD4V2RakMjPQ1omfimWCqvRJ8uSCBBsNpI5Olq166BQBuadc0zbD6Vb50jL+74UavQ4jUhJUA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer\\AbcPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\codyc\\.nuget\\packages\\naudio\\1.7.3\\naudio.1.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

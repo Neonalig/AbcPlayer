@@ -1,0 +1,10 @@
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\bin\Debug\AbcPlayer.dll
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\bin\Debug\AbcPlayer.pdb
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\bin\Debug\NAudio.dll
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\bin\Debug\TextPlayer.dll
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\bin\Debug\TextPlayer.pdb
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\obj\Debug\AbcPlayer.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\obj\Debug\AbcPlayer.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\obj\Debug\AbcPlayer.csproj.CopyComplete
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\obj\Debug\AbcPlayer.dll
+E:\Projects\Visual Studio\AbcPlayer\AbcPlayer\obj\Debug\AbcPlayer.pdb

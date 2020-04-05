@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOK88ecVqDcGTWPrDp7bQ+Svqbefi3z5j0s44VpBW17MgiPnO48Zy62JNW6yiqDZfb86brou8Suaai0Ff6x0dw==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayerApp\\AbcPlayerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\codyc\\.nuget\\packages\\controlzex\\3.0.2.4\\controlzex.3.0.2.4.nupkg.sha512",
+    "C:\\Users\\codyc\\.nuget\\packages\\mahapps.metro\\1.6.5\\mahapps.metro.1.6.5.nupkg.sha512",
+    "C:\\Users\\codyc\\.nuget\\packages\\mahapps.metro.iconpacks.entypo\\3.7.0\\mahapps.metro.iconpacks.entypo.3.7.0.nupkg.sha512",
+    "C:\\Users\\codyc\\.nuget\\packages\\naudio\\1.7.3\\naudio.1.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

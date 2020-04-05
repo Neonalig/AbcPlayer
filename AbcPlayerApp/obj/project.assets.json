@@ -1,0 +1,430 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Entypo/3.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        }
+      },
+      "NAudio/1.7.3": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "AbcPlayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "NAudio": "1.7.3"
+        },
+        "compile": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Entypo/3.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        }
+      },
+      "NAudio/1.7.3": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "AbcPlayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "NAudio": "1.7.3"
+        },
+        "compile": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Entypo/3.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        }
+      },
+      "NAudio/1.7.3": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "AbcPlayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "NAudio": "1.7.3"
+        },
+        "compile": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "ControlzEx/3.0.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        },
+        "runtime": {
+          "lib/net462/ControlzEx.dll": {},
+          "lib/net462/System.Windows.Interactivity.dll": {}
+        }
+      },
+      "MahApps.Metro/1.6.5": {
+        "type": "package",
+        "dependencies": {
+          "ControlzEx": "[3.0.2.4, 4.0.0)"
+        },
+        "compile": {
+          "lib/net47/MahApps.Metro.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.dll": {}
+        }
+      },
+      "MahApps.Metro.IconPacks.Entypo/3.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        },
+        "runtime": {
+          "lib/net47/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net47/MahApps.Metro.IconPacks.Entypo.dll": {}
+        }
+      },
+      "NAudio/1.7.3": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "AbcPlayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "NAudio": "1.7.3"
+        },
+        "compile": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbcPlayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlzEx/3.0.2.4": {
+      "sha512": "5pgvHE329JDDPwPHCVJe93yxu3CPl2wPh6ma1watUAGjvBtNSMkDcyzvwZcHSryihA/y4Ml3OmDYz9vj7Fg6Xg==",
+      "type": "package",
+      "path": "controlzex/3.0.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "controlzex.3.0.2.4.nupkg.sha512",
+        "controlzex.nuspec",
+        "lib/net40/ControlzEx.dll",
+        "lib/net40/ControlzEx.pdb",
+        "lib/net40/System.Windows.Interactivity.dll",
+        "lib/net45/ControlzEx.dll",
+        "lib/net45/ControlzEx.pdb",
+        "lib/net45/System.Windows.Interactivity.dll",
+        "lib/net462/ControlzEx.dll",
+        "lib/net462/ControlzEx.pdb",
+        "lib/net462/System.Windows.Interactivity.dll"
+      ]
+    },
+    "MahApps.Metro/1.6.5": {
+      "sha512": "XFxACnPbTAZ9qYcXMqFDLXXEpAbLj3BYaXqwH8NoY0sfSAYepEpE4C53Nd6AI4TnQ+nmDugtO8dwsAXPtt0SXQ==",
+      "type": "package",
+      "path": "mahapps.metro/1.6.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/MahApps.Metro.dll",
+        "lib/net40/MahApps.Metro.pdb",
+        "lib/net40/MahApps.Metro.xml",
+        "lib/net45/MahApps.Metro.dll",
+        "lib/net45/MahApps.Metro.pdb",
+        "lib/net45/MahApps.Metro.xml",
+        "lib/net46/MahApps.Metro.dll",
+        "lib/net46/MahApps.Metro.pdb",
+        "lib/net46/MahApps.Metro.xml",
+        "lib/net47/MahApps.Metro.dll",
+        "lib/net47/MahApps.Metro.pdb",
+        "lib/net47/MahApps.Metro.xml",
+        "mahapps.metro.1.6.5.nupkg.sha512",
+        "mahapps.metro.nuspec"
+      ]
+    },
+    "MahApps.Metro.IconPacks.Entypo/3.7.0": {
+      "sha512": "j20GUgfJx/9O5PqjKH1+McUoyRjjp4w5MhqzNJsvyVviu5O8DSWLrXaWQY0CrVnuFw7sGEFwEgjElUwT4h6Kpg==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks.entypo/3.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net45/MahApps.Metro.IconPacks.Entypo.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Entypo.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Entypo.xml",
+        "lib/net46/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net46/MahApps.Metro.IconPacks.Entypo.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Entypo.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Entypo.xml",
+        "lib/net47/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net47/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net47/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net47/MahApps.Metro.IconPacks.Entypo.dll",
+        "lib/net47/MahApps.Metro.IconPacks.Entypo.pdb",
+        "lib/net47/MahApps.Metro.IconPacks.Entypo.xml",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Entypo.dll",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Entypo.pdb",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Entypo.xml",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.dll",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.xml",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Entypo.dll",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Entypo.pdb",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Entypo.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo.dll",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo.pdb",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo.pri",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo/MahApps.Metro.IconPacks.Entypo.xr.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo/Themes/Generic.xaml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Entypo/Themes/PackIconEntypo.xaml",
+        "logo_small.png",
+        "mahapps.metro.iconpacks.entypo.3.7.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.entypo.nuspec"
+      ]
+    },
+    "NAudio/1.7.3": {
+      "sha512": "RfjCKqewCJ7OhVRqkVgiJv5ByPzPk5YWElyC7jLqcV2a9777HDGU00kmVzoMV9gbcNiTJn9ijVrTAgq4GeQP2w==",
+      "type": "package",
+      "path": "naudio/1.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/NAudio.XML",
+        "lib/net35/NAudio.dll",
+        "lib/windows8/NAudio.Win8.XML",
+        "lib/windows8/NAudio.Win8.dll",
+        "license.txt",
+        "naudio.1.7.3.nupkg.sha512",
+        "naudio.nuspec",
+        "readme.txt"
+      ]
+    },
+    "AbcPlayer/1.0.0": {
+      "type": "project",
+      "path": "../AbcPlayer/AbcPlayer.csproj",
+      "msbuildProject": "../AbcPlayer/AbcPlayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "AbcPlayer >= 1.0.0",
+      "MahApps.Metro >= 1.6.5",
+      "MahApps.Metro.IconPacks.Entypo >= 3.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\codyc\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayerApp\\AbcPlayerApp.csproj",
+      "projectName": "AbcPlayerApp",
+      "projectPath": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayerApp\\AbcPlayerApp.csproj",
+      "packagesPath": "C:\\Users\\codyc\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayerApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\codyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\Projects\\Visual Studio\\_NuGet\\_Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer\\AbcPlayer.csproj": {
+              "projectPath": "E:\\Projects\\Visual Studio\\AbcPlayer\\AbcPlayer\\AbcPlayer.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "MahApps.Metro": {
+            "target": "Package",
+            "version": "[1.6.5, )"
+          },
+          "MahApps.Metro.IconPacks.Entypo": {
+            "target": "Package",
+            "version": "[3.7.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
